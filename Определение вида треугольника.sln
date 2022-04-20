@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Определение вида треугольника", "Определение вида треугольника\Определение вида треугольника.csproj", "{B6E2E8D6-9EBC-4E37-BBDA-51E37D0C468E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F9FAEFFF-C044-4FCF-98FB-B54EEB32D60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E2E8D6-9EBC-4E37-BBDA-51E37D0C468E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E2E8D6-9EBC-4E37-BBDA-51E37D0C468E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E2E8D6-9EBC-4E37-BBDA-51E37D0C468E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E2E8D6-9EBC-4E37-BBDA-51E37D0C468E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FAEFFF-C044-4FCF-98FB-B54EEB32D60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FAEFFF-C044-4FCF-98FB-B54EEB32D60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FAEFFF-C044-4FCF-98FB-B54EEB32D60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FAEFFF-C044-4FCF-98FB-B54EEB32D60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1491A5A8-830A-480A-8010-E24A625EE3EC}
+	EndGlobalSection
+EndGlobal
